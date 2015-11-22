@@ -10,7 +10,7 @@
 ## Usage
 
 ```js
-var date = require('metalsmith-title');
+var title = require('metalsmith-title');
 
 metalsmith.use(title());
 ```
